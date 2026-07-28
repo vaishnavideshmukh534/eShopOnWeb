@@ -7,7 +7,7 @@ env:
   LOCATION: westus2
   TEMPLATE_FILE: infra/webapp.bicep
   SUBSCRIPTION_ID: bc6963eb-cb18-49c5-a4de-5c3fd94c2646
-  WEBAPP_NAME: devops-webapp-westus2-63786077
+  WEBAPP_NAME: devops-webapp-region1-63787839
 
 jobs:
   buildandtest:
