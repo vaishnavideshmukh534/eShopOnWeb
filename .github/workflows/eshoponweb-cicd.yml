@@ -91,4 +91,3 @@ jobs:
               --resource-group ${{ env.RESOURCE_GROUP }} \
               --src-path dotnet-app/app.zip \
               --type zip
-``
